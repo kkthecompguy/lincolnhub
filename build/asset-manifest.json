@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lincolnhub/static/css/main.5d15d4ef.chunk.css",
+    "main.js": "/lincolnhub/static/js/main.23d9c9a2.chunk.js",
+    "main.js.map": "/lincolnhub/static/js/main.23d9c9a2.chunk.js.map",
+    "runtime-main.js": "/lincolnhub/static/js/runtime-main.9156962b.js",
+    "runtime-main.js.map": "/lincolnhub/static/js/runtime-main.9156962b.js.map",
+    "static/css/2.0624914a.chunk.css": "/lincolnhub/static/css/2.0624914a.chunk.css",
+    "static/js/2.fc26e748.chunk.js": "/lincolnhub/static/js/2.fc26e748.chunk.js",
+    "static/js/2.fc26e748.chunk.js.map": "/lincolnhub/static/js/2.fc26e748.chunk.js.map",
+    "index.html": "/lincolnhub/index.html",
+    "precache-manifest.f504f162225f1cc9a710bfb1aac917f4.js": "/lincolnhub/precache-manifest.f504f162225f1cc9a710bfb1aac917f4.js",
+    "service-worker.js": "/lincolnhub/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/lincolnhub/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.5d15d4ef.chunk.css.map": "/lincolnhub/static/css/main.5d15d4ef.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9156962b.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.fc26e748.chunk.js",
+    "static/css/main.5d15d4ef.chunk.css",
+    "static/js/main.23d9c9a2.chunk.js"
+  ]
+}
