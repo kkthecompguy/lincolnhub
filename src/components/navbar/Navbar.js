@@ -12,7 +12,7 @@ const Navbar = () => {
          data-target="#NavbarContent"
          aria-controls="NavbarContent"
          aria-expanded="false"
-         aria-label="ToggleNavigation"
+         aria-label="Toggle navigation"
          className="navbar-toggler">
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="NavbarContent">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <a href="/" className="nav-link">Get Started</a>
+              <a href="/ambassador/sign-in" className="nav-link">Get Started</a>
             </li>
             <li className="nav-item">
               <a href="#about" className="nav-link">About Us</a>

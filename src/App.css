@@ -45,6 +45,15 @@
   margin-top: 20px;
 }
 
+.avatar {
+  vertical-align: middle;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  text-align: center;
+  margin: auto;
+}
+
 @media(max-width: 680px){
   .content-text {
     text-align: center;

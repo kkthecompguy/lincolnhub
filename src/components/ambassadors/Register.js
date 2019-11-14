@@ -3,11 +3,11 @@ import React, { Component } from 'react'
 class Register extends Component {
   render() {
     return (
-      <div className="row">
+      <div className="row mt-4 mb-3">
         <div className="col-md-6">
           <div className="container signup-link">
             <div>
-              <a href="/ambassador/sign-in" className="btn btn-primary px-2 mx-3">Ambassadors</a>
+              <a href="/ambassador/login" className="btn btn-primary px-2 mx-3">Ambassadors</a>
               <a href="/supervisor/sign-in" className="btn btn-primary px-2">Supervisor</a>
               <p className="lead">Sign in As Ambassador</p>
             </div>
@@ -20,7 +20,7 @@ class Register extends Component {
         </div>
 
         <div className="col-md-6">
-          <form className="card card-body container">
+          <form className="card card-body">
             <div className="card card-body"><h4>Ambassador Registration</h4></div>
             <div className="form-row">
               <div className="form-group col-md-6">
